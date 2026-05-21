@@ -6,6 +6,16 @@ This repository presents a 2D thermo-mechanical numerical modeling project using
 
 The project investigates mantle convection, subduction dynamics, and lithosphere-mantle interactions in a simplified tectonic setting. The repository is designed as a professional portfolio version of a manuscript-related research project, highlighting computational modeling, post-processing, visualization, and scientific interpretation skills without exposing unpublished model details.
 
+## Technical Skills Demonstrated
+
+- Numerical geodynamic modeling
+- Thermo-mechanical mantle convection simulation
+- Fortran-based scientific computing
+- Computational geoscience workflows
+- Scientific visualization and interpretation
+- Research-oriented numerical analysis
+- Workflow organization for HPC-style simulations
+
 ## Confidentiality Note
 
 This repository provides a portfolio-level summary of a manuscript-related research project. Full model inputs, unpublished parameter files, raw simulation outputs, and manuscript-specific results are not included.
