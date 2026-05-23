@@ -221,12 +221,9 @@ The repository is intended to demonstrate technical and scientific capabilities 
 
 ---
 
-# 👨‍🔬 Author
+# Author
 
 **Amar Jyoti Baruah**  
-PhD Researcher  
-Department of Physics  
-University of Alberta
 
 Research Areas:
 - Computational Geodynamics
