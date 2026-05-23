@@ -44,6 +44,7 @@ Key observations include:
 - Hydrated and weakened mantle rheology promotes SSC development
 - SSC contributes to lithospheric thinning through localized thermal perturbations
 - Dynamic mantle circulation influences long-term lithosphere evolution
+  
 ![Representative Result](figures/corner_flow_ssc.png)
 
 ### SSC, Corner Flow, and Edge-Driven Convection (EDC)
