@@ -45,7 +45,7 @@ Key observations include:
 - SSC contributes to lithospheric thinning through localized thermal perturbations
 - Dynamic mantle circulation influences long-term lithosphere evolution
   
-![Representative Result](figures/corner_flow_ssc.png)
+![Representative Result](figures/wet_mantle_simple_subduction_corner_flow_ssc.png)
 
 ### SSC, Corner Flow, and Edge-Driven Convection (EDC)
 
