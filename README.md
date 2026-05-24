@@ -1,6 +1,6 @@
 # 🌍 SOPALE Mantle Convection and Subduction Modeling
 
-<img src="figures/your-animation.gif" width="900"/>
+<img src="figures/subductionstops_wet.gif" width="900"/>
 
 # 📖 Overview
 
